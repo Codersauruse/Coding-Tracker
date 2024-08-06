@@ -1,0 +1,17 @@
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\bin\Debug\net8.0-windows\Codingtracker.exe
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\bin\Debug\net8.0-windows\Codingtracker.deps.json
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\bin\Debug\net8.0-windows\Codingtracker.runtimeconfig.json
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\bin\Debug\net8.0-windows\Codingtracker.dll
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\bin\Debug\net8.0-windows\Codingtracker.pdb
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\obj\Debug\net8.0-windows\Codingtracker.Form1.resources
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\obj\Debug\net8.0-windows\Codingtracker.csproj.GenerateResource.cache
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\obj\Debug\net8.0-windows\Codingtracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\obj\Debug\net8.0-windows\Codingtracker.AssemblyInfoInputs.cache
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\obj\Debug\net8.0-windows\Codingtracker.AssemblyInfo.cs
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\obj\Debug\net8.0-windows\Codingtracker.csproj.CoreCompileInputs.cache
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\obj\Debug\net8.0-windows\Codingtracker.sourcelink.json
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\obj\Debug\net8.0-windows\Codingtracker.dll
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\obj\Debug\net8.0-windows\refint\Codingtracker.dll
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\obj\Debug\net8.0-windows\Codingtracker.pdb
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\obj\Debug\net8.0-windows\Codingtracker.genruntimeconfig.cache
+D:\My things\Myprojects\Coding-Tracker\Codingtracker\obj\Debug\net8.0-windows\ref\Codingtracker.dll
